@@ -67,12 +67,12 @@
     padding: 20px 40px;
     transform: rotateY(180deg);
 }
-.back h1{
+.back h2{
     font-size: 50px;
     line-height: 55px;
     margin-bottom: 10px;
 }
-.back h1 span{
+.back h2 span{
     font-weight: 500;
 }
 .back p{
